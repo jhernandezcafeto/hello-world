@@ -2,7 +2,7 @@ package hello;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        Announcer announcer = new Announcer();
+        QuietAnnouncer announcer = new QuietAnnouncer();
         announcer.announce("Hello World!");
     }
 }
