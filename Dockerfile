@@ -7,4 +7,4 @@ LABEL name="José Francisco Hernández Balestrini" email="jhernandez@cafetosoftw
 ADD ./exercise /home/gradle/project
 WORKDIR /home/gradle/project
 
-ENTRYPOINT [ "gradle" ]
+ENTRYPOINT [ "gradle", "compileJava" ]
