@@ -8,4 +8,4 @@ public class LoudAnnouncer
     }
 }
 
-// Copyright;
+// Copyright 2014;
