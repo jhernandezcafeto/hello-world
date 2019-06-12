@@ -1,3 +1,5 @@
 README.md
 anotaciones.txt
 .vscode/
+build/
+.gradle
