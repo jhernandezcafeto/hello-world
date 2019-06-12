@@ -5,3 +5,5 @@ public class Announcer {
         System.out.println(words);
     }
 }
+
+// Copyright;
